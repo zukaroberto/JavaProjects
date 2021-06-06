@@ -1,0 +1,14 @@
+Ex.3)
+A)5
+B)
+quantidade de turistas
+qual o continente de origem
+genero
+mes
+ilhas
+C)quantidade de turistas-n
+qual o continente de origem-5
+genero-2
+mes-12
+ilhas-9
+D)n (quantidade de turistas) * 1080= total de células de armazenamento
